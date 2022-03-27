@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirstJava/FirstJava.iml" filepath="$PROJECT_DIR$/FirstJava/FirstJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestArray/TestArray.iml" filepath="$PROJECT_DIR$/TestArray/TestArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestFor/TestFor.iml" filepath="$PROJECT_DIR$/TestFor/TestFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestIf/TestIf.iml" filepath="$PROJECT_DIR$/TestIf/TestIf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestJavaSE.iml" filepath="$PROJECT_DIR$/TestJavaSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestMethod/TestMethod.iml" filepath="$PROJECT_DIR$/TestMethod/TestMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestOOP/TestOOP.iml" filepath="$PROJECT_DIR$/TestOOP/TestOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestOpe/TestOpe.iml" filepath="$PROJECT_DIR$/TestOpe/TestOpe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestSwitch/TestSwitch.iml" filepath="$PROJECT_DIR$/TestSwitch/TestSwitch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestVar/TestVar.iml" filepath="$PROJECT_DIR$/TestVar/TestVar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestWhile/TestWhile.iml" filepath="$PROJECT_DIR$/TestWhile/TestWhile.iml" />
+    </modules>
+  </component>
+</project>
